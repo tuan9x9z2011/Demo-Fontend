@@ -1,0 +1,156 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul li a{
+	text-decoration: none;
+}
+ul li a:hover{
+	text-decoration: none;
+}
+h4{
+	font-size: 20px;
+}
+.col-lg-8.tieude {
+    text-align: left;
+    color: white;
+}
+p{
+	font-size: 14px;
+}
+div#myCarousel{
+	width: 328px;
+    height: 693px;
+    background: url(../img/4.png);
+}
+.item {
+    padding-top: 50px;
+    padding-left: 5px;
+}
+a.carousel {
+    font-size: 60px;
+}
+.menu1 {
+    background: #fff;
+}
+ul.nav.navbar-nav {
+    font-size: 140%;
+}
+span.glyphicon.glyphicon-menu-left {
+    float: left;
+    
+}
+.text1{
+	color: #000;
+	margin-top: 30px;
+}
+span.glyphicon.glyphicon-menu-left.next3 {
+    margin-top: 70px;
+}
+span.glyphicon.glyphicon-menu-right {
+    float: right;
+}
+.col-lg-8.tieude {
+    padding-left: 77px;
+}
+.mt {
+    margin-top: 50px;
+}
+
+.slide .item a{
+	width: 170px;
+    display: block;
+    margin: auto;
+    background: white;
+    color: #000;
+    opacity: 0.6;
+    border: 1px solid #bdbdbd;
+}
+.text2{
+	text-align: left;
+	color: white;
+	margin-left: 169px;
+}
+.slide .item a:hover{
+	width: 100%;
+    text-decoration: none;
+}
+.slide .item a:hover img{
+	width: 55px;
+}
+	
+.slide .item a:hover h3{
+	font-style: 120%;
+}
+
+.slide .item a:hover p{
+	font-style: 120%;
+}
+
+.slide .item a:hover button{
+	font-style: 120%;
+}
+.col-lg-4.item {
+    background: #ececec;
+}
+.container.fower {
+    text-align: center;
+}
+.item.slide img{
+    margin-left: 210px;
+}
+span.glyphicon.glyphicon-menu-right.next2 {
+    padding-top: 35px;
+}
+span.glyphicon.glyphicon-menu-left.next1 {
+    padding-top: 35px;
+}
+li:active {
+	background: #006ae2;
+}
+.container {
+	text-align: center;
+}
+.col-lg-2 .a17 {
+	margin-top: 30px;
+	
+}
+.navblog {
+	margin-left: 62px;
+}
+.container-fluid {
+	text-align: center;
+	background: url(../img/15.png) no-repeat;
+
+}
+
+.a19 {
+	width: 1335px;
+    height: 304px;
+    opacity: 0.5;
+}
+.chung {
+	    position: relative;
+    top: -235px;
+        color: white;
+}
+.a20 {
+	width: 1335px;
+    height: 431px;
+    opacity: 0.8;
+    position: relative;
+    top: -233px;
+    left: 8px;
+}
+.chung1 {
+	position: relative;
+    top: -505px;
+}
+.chung1 ul {
+	    margin-bottom: 40px;
+	    margin-left: 100px;
+}
+.chung1 img{
+	margin-bottom: 20px
+}
